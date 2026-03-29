@@ -30,12 +30,6 @@
 
 ## 🚀 Installation & Setup
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/AbhishekAland/Zero-leak-compliance.git](https://github.com/AbhishekAland/Zero-leak-compliance.git)
-cd Zero-leak-compliance
-
-
 ## 📸 Gallery (Preview)
 
 | Secure Login | Organization Onboarding |
@@ -45,3 +39,9 @@ cd Zero-leak-compliance
 | Command Dashboard |
 | :---: |
 | <img src="screenshots/dashboard.png" width="850"> |
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/AbhishekAland/Zero-leak-compliance.git](https://github.com/AbhishekAland/Zero-leak-compliance.git)
+cd Zero-leak-compliance
+
