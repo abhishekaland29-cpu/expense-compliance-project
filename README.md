@@ -34,11 +34,11 @@
 
 | Secure Login | Organization Onboarding |
 | :---: | :---: |
-| <img src="img/EmpLogin.png" width="400"> | <img src="img/OrgRegistration.png" width="400"> |
+| <img src="LoginPage.jpeg" width="400"> | <img src="OrgRegistration.jpeg" width="400"> |
 
 | Command Dashboard |
 | :---: |
-| <img src="screenshots/dashboard.png" width="850"> |
+| <img src="AdminDashboard.jpeg" width="400"> | <img src="EmpDashboard.jpeg" width="400"> |
 
 ### 1. Clone the Repository
 ```bash
