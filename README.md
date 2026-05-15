@@ -34,7 +34,7 @@
 
 | Secure Login | Organization Onboarding |
 | :---: | :---: |
-| <img src="img/LoginPage.jpeg" width="400"> | <img src="img/OrgRegistration.jpeg" width="400"> |
+| <img src="img/LoginPage.png" width="400"> | <img src="img/OrgRegistration.png" width="400"> |
 
 | Command Dashboard | Employ Dashboard | 
 | :---: | :---: | 
